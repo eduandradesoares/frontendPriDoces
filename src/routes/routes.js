@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Menu from "../components/menu/menu";
 
-
 const Routes = () => (
     <BrowserRouter>
         <Switch>
